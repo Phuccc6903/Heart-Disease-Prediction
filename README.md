@@ -141,7 +141,7 @@ We evaluated the datasets based on their size, feature richness, ease of preproc
 - **UCI Heart Disease Data**
 #### Number of People with Heart Disease
 ![alt text](ChartImages/image-11.png)
-Upon examining the number of people with and without heart disease to serve the predictive model, we can observe an equal proportion of people with and without heart disease. This will not pose a challenge for analysis.
+- Upon examining the number of people with and without heart disease to serve the predictive model, we can observe an equal proportion of people with and without heart disease. This will not pose a challenge for analysis.
 
 #### Distribution of Cholesterol Levels among Patients with/without Heart Disease
 ![alt text](ChartImages/image-12.png)
